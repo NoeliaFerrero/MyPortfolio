@@ -9,8 +9,8 @@
 
 ## Home
 
-Hi! My name is Ailín, and I'm a Software Engineer!.
- ![Esta es una imagen de ejemplo](images/image.png) 
+Hi! My name is Noelia, and I'm a Software Engineer!.
+
 
 ## About me
 
@@ -22,6 +22,6 @@ I have a lot of hobbies but the most import is play differents sports and enjoy 
 ## Contact me
 
 - My website: ...
-- Email: ailinj.asis@gmail.com
-- Linkedin: https://www.linkedin.com/in/ailin-asis/
-- Github: https://github.com/AilinAsis96
+- Email: noeliafc40@gmail.com
+- Linkedin: https://www.linkedin.com/in/noelia-ferrero/
+- Github: https://github.com/NoeliaFerrero
