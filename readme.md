@@ -9,12 +9,12 @@
 
 ## Home
 
-Hi! My name is Noelia, and I'm a Software Engineer!.
+Hi! My name is Noelia, and I'm a Systems Engineer!.
 
 
 ## About me
 
-I'm studying Information Systems Engineering at National Technological University and I'm in my fifth year!. Also, I'm studying Diploma in Data Science, Machine Learning and its Applications at National University. 
+I am passionate about data and everything we can discover when we analyze it. My greatest skill is understanding the particularities of a business/organization at the information, processes and people level and integrating it into a tailored solution. 
 I'm passionate about managing big data and obtain big solutions with this. 
 
 I have a lot of hobbies but the most import is play differents sports and enjoy it with my family and friends.
